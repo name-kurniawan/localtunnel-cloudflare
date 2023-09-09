@@ -93,7 +93,5 @@
   
 * Jalankan dan cek tunnel
   ```
-  ./cloudflared tunnel run <Tunnel-UUID>
-  #contoh
-  ./cloudflared tunnel run 3b703a42-9d81-4641-8d42-6e48c722ae37
-  
+  ./cloudflared service install
+  systemctl restart cloudflared 
