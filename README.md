@@ -1,9 +1,4 @@
-#
-#Login Cloudflared dengan Akun Cloudflare
-#Membuat Tunnel Baru
-#Membuat File Konfigurasi Tunnel
-#Routing Traffic
-#Jalankan dan Check Tunnel
+## CATATAN MEMBUAT LOCALTUNNEL DENGAN CLOUDFLARE
 
 ## Membuat Akun di Cloudflare
 * Membuat account Cloudflare di [sini](https://dash.cloudflare.com/sign-up)
